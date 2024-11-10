@@ -1,0 +1,21 @@
+div {
+	padding:20px;
+	text-align:left;
+	background-color:white;
+	position: center;
+	width: 600px;
+	margin: 0 auto;
+	}
+input[type=text]{
+	padding: 10px 10px;
+	box-sizing: border-box;
+	width: 100%;
+}
+input[type=email]{
+	padding: 10px 10px;
+	box-sizing: border-box;
+	width: 100%;
+}
+textarea{
+	width: 100%;
+}
