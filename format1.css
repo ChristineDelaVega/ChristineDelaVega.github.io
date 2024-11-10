@@ -1,6 +1,6 @@
 .parallax {
   
-  background-image: url("img3.png");
+  background-image: url("imgme.png");
 
   min-height: 900px; 
 
@@ -11,7 +11,7 @@
 }
 .parallax1 {
   
-  background-image: url("img4.png");
+  background-image: url("imgprojects.png");
 
   min-height: 900px; 
 
