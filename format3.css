@@ -1,0 +1,21 @@
+
+table, th, td {
+	border:1px solid red;
+	border-spacing:2px;
+}
+th{
+	background-color:red;
+	color:white;
+}
+.myClass{
+	color:red;
+}
+b{
+	color:blue;
+}
+strong{
+	color:green;
+}
+p{
+	color:IndianRed;
+}
