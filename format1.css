@@ -1,0 +1,74 @@
+.parallax {
+  
+  background-image: url("img3.png");
+
+  min-height: 900px; 
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax1 {
+  
+  background-image: url("img4.png");
+
+  min-height: 900px; 
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.div1 {
+  height:150px;
+  background-color:#f7ca7c;
+  font-size:26px;
+  padding:50px;
+  text-align: center;
+}
+.caption {
+    position: absolute;
+    left: 0;
+    top: 300px;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+.caption2 {
+    position: absolute;
+    left: 0;
+    top: 1600px;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+.caption span.border {
+    background-color: #6E001C;
+    color: white;
+    padding: 18px;
+    font-size: 45px;
+    letter-spacing: 10px;
+}
+.caption2 span.border {
+    background-color: #6E001C;
+    color: white;
+    padding: 18px;
+    font-size: 45px;
+    letter-spacing: 10px;
+}
+a:link {
+  color: #6E001C;
+}
+
+a:visited {
+  color: #a3003f;
+}
+
+a:hover {
+  color: #d61351;
+}
+
+a:active {
+  color: #96113b;
+}
